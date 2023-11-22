@@ -1,2 +1,2 @@
-# st1
-its newbie project
+# CPP
+its CPP newbie project
